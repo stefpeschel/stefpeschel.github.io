@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbiome data | Stefanie Peschel</title>
+    <link>https://stefpeschel.github.io/tag/microbiome-data/</link>
+      <atom:link href="https://stefpeschel.github.io/tag/microbiome-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Microbiome data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefpeschel.github.io/media/icon_hu23338a97055054b1f337aa55ee04238c_14842_512x512_fill_lanczos_center_3.png</url>
+      <title>Microbiome data</title>
+      <link>https://stefpeschel.github.io/tag/microbiome-data/</link>
+    </image>
+    
+    <item>
+      <title>Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering</title>
+      <link>https://stefpeschel.github.io/publication/ullmann2023overoptimism/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/ullmann2023overoptimism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetCoMi: network construction and comparison for microbiome data in R</title>
+      <link>https://stefpeschel.github.io/publication/peschel2021netcomi/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/peschel2021netcomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maturation of the gut microbiome during the first year of life contributes to the protective farm effect on childhood asthma</title>
+      <link>https://stefpeschel.github.io/publication/depner2020maturation/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/depner2020maturation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

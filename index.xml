@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefanie Peschel</title>
+    <link>https://stefpeschel.github.io/</link>
+      <atom:link href="https://stefpeschel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefanie Peschel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefpeschel.github.io/media/icon_hu23338a97055054b1f337aa55ee04238c_14842_512x512_fill_lanczos_center_3.png</url>
+      <title>Stefanie Peschel</title>
+      <link>https://stefpeschel.github.io/</link>
+    </image>
+    
+    <item>
+      <title>CEN2023 - Conference of the Central European Network</title>
+      <link>https://stefpeschel.github.io/organized/2023-09_cen/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/organized/2023-09_cen/</guid>
+      <description>&lt;style scoped&gt;
+table {
+  font-size: 20px;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Sep 3 &amp;ndash; Sep 7, 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Event&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CEN2023 Conference  - &lt;em&gt;From Data to Knowledge. Advancing Life Sciences.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;   &lt;/td&gt;
+&lt;td&gt;Biozentrum of the University of Basel, Switzerland&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As a member of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Working Group&lt;/a&gt; of the IBS-DR, I will co-organize the
+following sessions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Young Statisticians Session&lt;/strong&gt;, where young statisticians present their research in a friendly atmosphere with the possibility to get feedback on their presentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Panel discussion on
+&lt;strong&gt;&amp;ldquo;Should I stay or should I go? - Going abroad during your academic career&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Young Statisticians Lecture Series - Modern Statistical Methods for Life Sciences</title>
+      <link>https://stefpeschel.github.io/organized/ysls/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/organized/ysls/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;Young Statisticians Lecture Series&lt;/em&gt; is organized by the Early Career
+Working Group (AG Nachwuchs) of the IBS-DR.
+This online lecture series should give students of Statistics
+and Biometry the opportunity to present their Master’s thesis or
+current PhD project in a larger and more flexible time frame than is
+usual at conferences.&lt;/p&gt;
+&lt;p&gt;Past and future talks can be found &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs/veranstaltungen.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I mainly organize the event and also do the moderation from time to time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&lt;interact&gt; 2023</title>
+      <link>https://stefpeschel.github.io/talk/interact-2023/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/interact-2023/</guid>
+      <description>&lt;p&gt;With my flash talk and poster, I will give an overview on my
+R package NetCoMi, which offers functionality for constructing, analyzing,
+and comparing networks for microbiome data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminars in Biostatistics by the IBS-DR</title>
+      <link>https://stefpeschel.github.io/organized/sibsinar/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/organized/sibsinar/</guid>
+      <description>&lt;p&gt;A seminar series organized by the
+&lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;German Region of the International Biometric Society (IBS-DR)&lt;/a&gt; on specialized lectures in the field of biometrics.&lt;/p&gt;
+&lt;p&gt;The event is planned by a committee of which I am a member.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://stefpeschel.github.io/post/photography/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/post/photography/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/001.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/001_hu32cd728eea2fa56beefcd2d3a54d7342_5198269_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;001.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/002.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/002_hud8adc95863a401d038e6428319902542_2202475_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;002.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/003.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/003_hu1e6b75884ec3ac400d0cec20e2cb0a61_1407482_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;003.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/004.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/004_hu8f7807423e8deb738f67db9335d15c15_3680730_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;004.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/005-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/005-l_hu26fcd726e01a5f42e2c66232ff8a4964_1164354_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;005-l.jpg&#34; width=&#34;345&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/006-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/006-l_hua2eb292696a6c743776326769ea8fa45_906023_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;006-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/007-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/007-l_hu9c2c7566e8bc7e9477ab5ef81a3bf9b7_1984361_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;007-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/008-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/008-l_hu027b254f2001ac12de585d6f587003e8_971905_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;008-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/009-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/009-l_hu217fcee30f2aa76b9b5881c1ced8fb50_1095756_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;009-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/010-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/010-l_hud8e956181134551979bff261a039bb6e_2151583_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;010-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/011.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/011_hu4c11074df93aebcfc990beefd5d47452_3007543_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;011.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/012.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/012_huaf20ee5d12d934b3d5242b8f04e4cf94_1587714_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;012.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/013-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/013-l_hu9ae7dd51184c126dd1fb834732895e6e_2137325_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;013-l.jpg&#34; width=&#34;422&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/014-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/014-l_hu0957c5ea074a1b9867469bb41e823b3d_826780_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;014-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/015-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/015-l_hu6af3ef4ebaf37fe4904b598feba2a4b8_1092260_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;015-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/016.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/016_hu4332fbd74895f7a4e8a7ba4ea173fe58_1430568_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;016.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/017.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/017_hu543663b8b33f9b4772e707cd240ae8ea_1349187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;017.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/018-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/018-l_huf5f8ea4195f64e52feb4237a6b546cb9_862328_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;018-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/019.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/019_hu911ba550201037fd6ef549bf82027fff_1481752_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;019.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/020.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/020_hubcb19d3ae87f5e6522b67015f5837287_2848866_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;020.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/021.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/021_hubbf87e4b28422ce7c6301f8861636918_3689456_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;021.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/022.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/022_huac27e77c7ab2bbf31da39120d78fbaad_2440456_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;022.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/023-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/023-l_hu6833db7e6c0fe2f6f38d4addcf437eda_847968_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;023-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/024-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/024-l_hu33c82f6945e8290529710ac911f77c78_1451910_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;024-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+    
+  
+  &lt;div class=&#34;gallery-item gallery-item--large&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/025-l.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/025-l_hu77682c210984216d2e400d00c1ad002c_1063986_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;025-l.jpg&#34; width=&#34;346&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-photography&#34; href=&#34;https://stefpeschel.github.io/media/albums/photography/026.jpg&#34; &gt;
+      &lt;img src=&#34;https://stefpeschel.github.io/media/albums/photography/026_hubfae70cfe28afdc2c4e6f33338d083bb_2222982_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;026.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Permutation p-value approximation</title>
+      <link>https://stefpeschel.github.io/project/permaprox/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/permaprox/</guid>
+      <description>&lt;p&gt;In this PhD project, I develop an approach for accurate p-value approximation
+in permutation testing using the GPD (Generalized Pareto Distribution) while
+strictly avoiding zero p-values.
+The proposed p-value approximation framework, including precise fitting of GPD
+parameters, tail threshold detection, and multiple testing adjustment, will be
+made available in the open-source R package &lt;em&gt;permAprox&lt;/em&gt; on GitHub and CRAN.&#39;&lt;/p&gt;
+&lt;p&gt;The project is carried out under the supervision of
+&lt;a href=&#34;https://www.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne-Laure Boulesteix&lt;/a&gt;
+and &lt;a href=&#34;https://www.statistik.uni-muenchen.de/personen/professoren/mueller/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian L. Müller&lt;/a&gt;,
+as well as in collaboration with the group of
+&lt;a href=&#34;https://www.helmholtz-munich.de/en/iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof.Dr. Erika von Mutius&lt;/a&gt;
+at the Helmholtz Zentrum München.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering</title>
+      <link>https://stefpeschel.github.io/publication/ullmann2023overoptimism/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/ullmann2023overoptimism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetCoMi</title>
+      <link>https://stefpeschel.github.io/project/netcomi/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/netcomi/</guid>
+      <description>&lt;p&gt;NetCoMi is an R package that provides an extensive toolbox for constructing,
+analyzing, and comparing networks for microbial compositional data. It also
+offers the ability to quantify network differences and thus enables insights
+into whether single taxa, groups of taxa, or the overall network structure
+change between groups.
+&lt;br&gt;&lt;br&gt;
+The package was developed as part of my Ph.D. thesis,
+in collaboration with my supervisors and coauthors
+&lt;a href=&#34;https://www.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne-Laure Boulesteix&lt;/a&gt;
+and &lt;a href=&#34;https://www.statistik.uni-muenchen.de/personen/professoren/mueller/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian L. Müller&lt;/a&gt;,
+as well as the group of
+&lt;a href=&#34;https://www.helmholtz-munich.de/en/iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof.Dr. Erika von Mutius&lt;/a&gt;
+at the Helmholtz Zentrum München.
+&lt;br&gt;&lt;br&gt;
+The manuscript describing the
+workflow and theory behind the package is published in
+&lt;a href=&#34;https://academic.oup.com/bib/article/22/4/bbaa290/6017455?login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Briefings in Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microbiome Day @HelmholtzMunich</title>
+      <link>https://stefpeschel.github.io/talk/microbiome-day-@helmholtzmunich/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/microbiome-day-@helmholtzmunich/</guid>
+      <description>&lt;p&gt;I presented a poster about my R package NetCoMi. The poster contains an example,
+where NetCoMi is applied to data from the PASTURE study to investigate whether
+children with a high weight gain in early life have a higher change for
+obesity at school age.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAGStat 2022</title>
+      <link>https://stefpeschel.github.io/talk/dagstat-2022/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/dagstat-2022/</guid>
+      <description>&lt;p&gt;In my video talk, I presented my PhD project, where I develop an approach for
+accurate p-value approximation in permutation testing using the GPD
+(Generalized Pareto Distribution) while strictly avoiding zero p-values.
+The video can be found below.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://stefpeschel.github.io/media/DAGStat2022_SPeschel.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>DAGStat 2022 conference</title>
+      <link>https://stefpeschel.github.io/organized/2022-03_dagstat/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/organized/2022-03_dagstat/</guid>
+      <description>&lt;style scoped&gt;
+table {
+  font-size: 20px;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mar 28 &amp;ndash; Apr 1, 2022&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Event&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;DAGStat 2022 conference&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;   &lt;/td&gt;
+&lt;td&gt;Universitätsklinikum Hamburg-Eppendorf&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As a member of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Working Group&lt;/a&gt; of the IBS-DR, I co-organized the
+following sessions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Young Statisticians Session&lt;/strong&gt;, where statisticians at an early stage of their career present their research in a friendly atmosphere with the possibility to get feedback on their presentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Panel discussion on
+&lt;strong&gt;&amp;ldquo;Science vs. Industry – Career Options in (Bio-)statistics&amp;rdquo;&lt;/strong&gt;. I co-chaired this event.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Statement</title>
+      <link>https://stefpeschel.github.io/privacy/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/privacy/</guid>
+      <description>&lt;h2 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h2&gt;
+&lt;h3 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h3&gt;
+&lt;h4 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h4&gt;
+&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten
+passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie
+persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen
+Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.&lt;/p&gt;
+&lt;h4 id=&#34;datenerfassung-auf-dieser-website&#34;&gt;Datenerfassung auf dieser Website&lt;/h4&gt;
+&lt;h5 id=&#34;wer-ist-verantwortlich-für-die-datenerfassung-auf-dieser-website&#34;&gt;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/h5&gt;
+&lt;p&gt;Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
+können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.&lt;/p&gt;
+&lt;h5 id=&#34;wie-erfassen-wir-ihre-daten&#34;&gt;Wie erfassen wir Ihre Daten?&lt;/h5&gt;
+&lt;p&gt;Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um
+Daten handeln, die Sie in ein Kontaktformular eingeben.&lt;/p&gt;
+&lt;p&gt;Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-
+Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit
+des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.&lt;/p&gt;
+&lt;h5 id=&#34;wofür-nutzen-wir-ihre-daten&#34;&gt;Wofür nutzen wir Ihre Daten?&lt;/h5&gt;
+&lt;p&gt;Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere
+Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.&lt;/p&gt;
+&lt;h5 id=&#34;welche-rechte-haben-sie-bezüglich-ihrer-daten&#34;&gt;Welche Rechte haben Sie bezüglich Ihrer Daten?&lt;/h5&gt;
+&lt;p&gt;Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer
+gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder
+Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben,
+können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter
+bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.&lt;/p&gt;
+&lt;p&gt;Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.&lt;/p&gt;
+&lt;h3 id=&#34;2-hosting&#34;&gt;2. Hosting&lt;/h3&gt;
+&lt;p&gt;Wir hosten die Inhalte unserer Website bei folgendem Anbieter:&lt;/p&gt;
+&lt;h4 id=&#34;externes-hosting&#34;&gt;Externes Hosting&lt;/h4&gt;
+&lt;p&gt;Diese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden,
+werden auf den Servern des Hosters / der Hoster gespeichert. Hierbei kann es sich v. a. um IP-Adressen,
+Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe
+und sonstige Daten, die über eine Website generiert werden, handeln.&lt;/p&gt;
+&lt;p&gt;Das externe Hosting erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und
+bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten
+Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).
+Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf
+Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, soweit die Einwilligung die Speicherung
+von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im
+Sinne des TTDSG umfasst. Die Einwilligung ist jederzeit widerrufbar.&lt;/p&gt;
+&lt;p&gt;Unser(e) Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner
+Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.
+Wir setzen folgende(n) Hoster ein:&lt;/p&gt;
+&lt;p&gt;GitHub, Inc.
+88 Colin P. Kelly Jr. St.
+San Francisco, CA 94107
+USA&lt;/p&gt;
+&lt;p&gt;GitHub-Datenschutzbeauftragter
+c/o DP Dock DPO Services GmbH,
+Z. Hd.: GitHub BV, Gut Projensdorf,
+24161 Altenholz, Deutschland
+CC: GitHub BV, Vijzelstraat 68-72, 1017 HL Amsterdam, Niederlande&lt;/p&gt;
+&lt;p&gt;GitHub Privacy statement:
+&lt;a href=&#34;https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-allgemeine-hinweise-und-pflichtinformationen&#34;&gt;3. Allgemeine Hinweise und Pflichtinformationen&lt;/h3&gt;
+&lt;h4 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h4&gt;
+&lt;p&gt;Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre
+personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie
+dieser Datenschutzerklärung.&lt;/p&gt;
+&lt;p&gt;Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben.
+Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende
+Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie
+und zu welchem Zweck das geschieht.&lt;/p&gt;
+&lt;p&gt;Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail)
+Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
+möglich.&lt;/p&gt;
+&lt;h4 id=&#34;hinweis-zur-verantwortlichen-stelle&#34;&gt;Hinweis zur verantwortlichen Stelle&lt;/h4&gt;
+&lt;p&gt;Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/info_hu179192f0ddbbc231d5d3782fa64f0e3a_146578_c5cceb2aee1f420697ac6b9f196bdbc9.webp 400w,
+               /media/info_hu179192f0ddbbc231d5d3782fa64f0e3a_146578_23bdc969aedabf6ca1322f98fdd9d133.webp 760w,
+               /media/info_hu179192f0ddbbc231d5d3782fa64f0e3a_146578_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://stefpeschel.github.io/media/info_hu179192f0ddbbc231d5d3782fa64f0e3a_146578_c5cceb2aee1f420697ac6b9f196bdbc9.webp&#34;
+               width=&#34;450px&#34;
+               height=&#34;172&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
+die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.)
+entscheidet.&lt;/p&gt;
+&lt;h4 id=&#34;speicherdauer&#34;&gt;Speicherdauer&lt;/h4&gt;
+&lt;p&gt;Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben
+Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein
+berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen,
+werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer
+personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im
+letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.&lt;/p&gt;
+&lt;h4 id=&#34;allgemeine-hinweise-zu-den-rechtsgrundlagen-der-datenverarbeitung-auf-dieser-website&#34;&gt;Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website&lt;/h4&gt;
+&lt;p&gt;Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf
+Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien
+nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdrücklichen Einwilligung in die Übertragung
+personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung außerdem auf Grundlage von Art.
+49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in
+Ihr Endgerät (z. B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zusätzlich
+auf Grundlage von § 25 Abs. 1 TTDSG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur
+Vertragserfüllung oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, verarbeiten wir Ihre
+Daten auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren verarbeiten wir Ihre Daten, sofern diese
+zur Erfüllung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit. c DSGVO.
+Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f
+DSGVO erfolgen. Über die jeweils im Einzelfall einschlägigen Rechtsgrundlagen wird in den folgenden
+Absätzen dieser Datenschutzerklärung informiert.&lt;/p&gt;
+&lt;h4 id=&#34;widerruf-ihrer-einwilligung-zur-datenverarbeitung&#34;&gt;Widerruf Ihrer Einwilligung zur Datenverarbeitung&lt;/h4&gt;
+&lt;p&gt;Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine
+bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten
+Datenverarbeitung bleibt vom Widerruf unberührt.&lt;/p&gt;
+&lt;h4 id=&#34;widerspruchsrecht-gegen-die-datenerhebung-in-besonderen-fällen-sowie-gegen-direktwerbung-art-21-dsgvo&#34;&gt;Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)&lt;/h4&gt;
+&lt;p&gt;WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO
+ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN
+SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN
+WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES
+PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT,
+ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN,
+WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES
+SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG
+NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE
+VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON
+RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).
+WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN,
+SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE
+BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG
+EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN
+VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN
+ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH
+NACH ART. 21 ABS. 2 DSGVO).&lt;/p&gt;
+&lt;h4 id=&#34;beschwerderecht-bei-der-zuständigen-aufsichtsbehörde&#34;&gt;Beschwerderecht bei der zuständigen Aufsichtsbehörde&lt;/h4&gt;
+&lt;p&gt;Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer
+Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes
+oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger
+verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.&lt;/p&gt;
+&lt;h4 id=&#34;recht-auf-datenübertragbarkeit&#34;&gt;Recht auf Datenübertragbarkeit&lt;/h4&gt;
+&lt;p&gt;Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags
+automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format
+aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen
+verlangen, erfolgt dies nur, soweit es technisch machbar ist.&lt;/p&gt;
+&lt;h4 id=&#34;auskunft-berichtigung-und-löschung&#34;&gt;Auskunft, Berichtigung und Löschung&lt;/h4&gt;
+&lt;p&gt;Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche
+Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den
+Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie
+zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.&lt;/p&gt;
+&lt;h4 id=&#34;recht-auf-einschränkung-der-verarbeitung&#34;&gt;Recht auf Einschränkung der Verarbeitung&lt;/h4&gt;
+&lt;p&gt;Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in
+folgenden Fällen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir
+in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die
+Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.&lt;/li&gt;
+&lt;li&gt;Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie
+statt der Löschung die Einschränkung der Datenverarbeitung verlangen.&lt;/li&gt;
+&lt;li&gt;Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung,
+Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der
+Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+*Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen
+Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
+überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten
+zu verlangen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von
+ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder
+Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder
+juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder
+eines Mitgliedstaats verarbeitet werden.&lt;/p&gt;
+&lt;h3 id=&#34;4-plugins-und-tools&#34;&gt;4. Plugins und Tools&lt;/h3&gt;
+&lt;h4 id=&#34;google-fonts-lokales-hosting&#34;&gt;Google Fonts (lokales Hosting)&lt;/h4&gt;
+&lt;p&gt;Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Google Fonts, die von Google
+bereitgestellt werden. Die Google Fonts sind lokal installiert. Eine Verbindung zu Servern von Google findet
+dabei nicht statt.
+Weitere Informationen zu Google Fonts finden Sie unter
+&lt;a href=&#34;https://developers.google.com/fonts/faq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/fonts/faq&lt;/a&gt; und in der Datenschutzerklärung von Google:
+&lt;a href=&#34;https://policies.google.com/privacy?hl=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://policies.google.com/privacy?hl=de&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;font-awesome-lokales-hosting&#34;&gt;Font Awesome (lokales Hosting)&lt;/h4&gt;
+&lt;p&gt;Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten Font Awesome. Font Awesome ist lokal
+installiert. Eine Verbindung zu Servern von Fonticons, Inc. findet dabei nicht statt.
+Weitere Informationen zu Font Awesome finden Sie in der Datenschutzerklärung für Font Awesome unter:
+&lt;a href=&#34;https://fontawesome.com/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fontawesome.com/privacy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Quelle:
+&lt;a href=&#34;https://www.e-recht24.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.e-recht24.de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NetCoMi: network construction and comparison for microbiome data in R</title>
+      <link>https://stefpeschel.github.io/publication/peschel2021netcomi/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/peschel2021netcomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics Virtual Coordination Network (BVCN) conference</title>
+      <link>https://stefpeschel.github.io/talk/bioinformatics-virtual-coordination-network-bvcn-conference/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/bioinformatics-virtual-coordination-network-bvcn-conference/</guid>
+      <description>&lt;p&gt;With this poster, I presented my R package NetCoMi, which offers functionality
+for constructing, analyzing, and comparing networks for microbiome data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Noun Project</title>
+      <link>https://stefpeschel.github.io/project/thenounproject/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/thenounproject/</guid>
+      <description>&lt;p&gt;I like to create my own icons when I need them for a project.
+In order to make them available for other people to use, I upload them to the
+&lt;a href=&#34;https://thenounproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noun Project&lt;/a&gt;.
+Unfortunately, the review process takes several months due to
+the high demand.&lt;/p&gt;
+&lt;p&gt;Feel free to visit my
+&lt;a href=&#34;https://thenounproject.com/stefpeschel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noun Project profile&lt;/a&gt; if you&amp;rsquo;re
+interested in the icons I create.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Helmholtz Munich Twitter conference</title>
+      <link>https://stefpeschel.github.io/talk/helmholtz-munich-twitter-conference/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/helmholtz-munich-twitter-conference/</guid>
+      <description>&lt;p&gt;In this twitter conference, each of the attendies had four tweets, in which they
+presented their current project. The conference was organized by the
+&lt;a href=&#34;https://twitter.com/hashtag/YoungScientistsHMGU?src=hashtag_click&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#YoungScientistsHMGU&lt;/a&gt;
+group of the Helmholtz Zentrum München.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>67th Biometric Colloquium “Scenes from Biostatistics”</title>
+      <link>https://stefpeschel.github.io/organized/2021-03_bk/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/organized/2021-03_bk/</guid>
+      <description>&lt;style scoped&gt;
+table {
+  font-size: 20px;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mar 14 &amp;ndash; Mar 17 2021&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Event&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Biometric Colloquium 2021 conference&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;   &lt;/td&gt;
+&lt;td&gt;Institute of Biostatistics and Clinical Research of the Westfälische Wilhelms-Universität Münster (held as online event)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As a member of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Working Group&lt;/a&gt; of the IBS-DR, I co-organized the
+following sessions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Young Statisticians Session&lt;/strong&gt;, where statisticians at an early stage of their career present their research in a friendly atmosphere with the possibility to get feedback on their presentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Panel discussion on
+&lt;strong&gt;&amp;ldquo;Networking – Bessere Karrierechancen durch Netzwerken?&amp;rdquo;&lt;/strong&gt;. I chaired this event.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>67th Biometric Colloquium of the IBS-DR</title>
+      <link>https://stefpeschel.github.io/talk/67th-biometric-colloquium-of-the-ibs-dr/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/67th-biometric-colloquium-of-the-ibs-dr/</guid>
+      <description>&lt;p&gt;In this talk, I presented my R package NetCoMi, which offers functionality for
+constructing, analyzing, and comparing networks for microbiome data.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-slides&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slides&#34;
+           src=&#34;https://stefpeschel.github.io/media/BK2021_Talk_Peschel_gif.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Slides
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Early Career Working Group</title>
+      <link>https://stefpeschel.github.io/project/earlycareerworkinggroup/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/earlycareerworkinggroup/</guid>
+      <description>&lt;p&gt;Since March 2021, I am officially the head of the Early Career Working Group
+(&amp;ldquo;AG Nachwuchs&amp;rdquo;) of the German Region of the International Biometric Society
+(IBS-DR).&lt;/p&gt;
+&lt;p&gt;Our goal is to support and network young statisticians all over Germany.
+Each year at the
+&lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/termine/biometrische-kolloquien.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biometric Colloquium&lt;/a&gt;, we organize the Young Statisticians Session (YSS), a panel discussion on topics that may be of interest to
+young statisticians, and a get-together. In addition, we have a network of
+&lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs/standorte-studium.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;liaison professors&lt;/a&gt;
+who serve as contacts and mentors for young statisticians.
+Since June 2021, we also organize the
+&lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs/veranstaltungen.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Young Statisticians Lecture Series&lt;/em&gt;&lt;/a&gt;,
+an online lecture series where young statisticians can present their current
+research projects, bachelor or master theses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maturation of the gut microbiome during the first year of life contributes to the protective farm effect on childhood asthma</title>
+      <link>https://stefpeschel.github.io/publication/depner2020maturation/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/depner2020maturation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GMDS &amp; CEN-IBS 2020</title>
+      <link>https://stefpeschel.github.io/organized/2020-09_gmds-cen/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/organized/2020-09_gmds-cen/</guid>
+      <description>&lt;style scoped&gt;
+table {
+  font-size: 20px;
+}
+&lt;/style&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Sep 06 &amp;ndash; Sep 09, 2020&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Event&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;GMDS &amp;amp; CEN-IBS 2020 conference&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;   &lt;/td&gt;
+&lt;td&gt;Charité Berlin (held as online event)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As a member of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Working Group&lt;/a&gt; of the IBS-DR, I co-organized the following sessions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Young Statisticians Session&lt;/strong&gt;, where statisticians at an early stage of their career present their research in a friendly atmosphere with the possibility to get feedback on their presentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Panel discussion on
+&lt;strong&gt;&amp;ldquo;Traditional vs. new career paths in biostatistics&amp;rdquo;&lt;/strong&gt;. I co-chaired this event.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonparametric change point estimation for survival distributions with a partially constant hazard rate</title>
+      <link>https://stefpeschel.github.io/publication/brazzale2019changepoint/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/brazzale2019changepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://stefpeschel.github.io/slides/2021-03_bk/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/slides/2021-03_bk/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;alt text here&#34;
+           src=&#34;https://stefpeschel.github.io/slides/2021-03_bk/BK2021_Talk_Peschel_gif.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://stefpeschel.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://stefpeschel.github.io/terms/</guid>
+      <description>&lt;h2 id=&#34;impressum&#34;&gt;Impressum&lt;/h2&gt;
+&lt;h3 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG:&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/info1_hue3b08b612b9ce68abd0554f57caf9eac_68399_0dfe870a186688ecf5c53f7bedc0ed74.webp 400w,
+               /media/info1_hue3b08b612b9ce68abd0554f57caf9eac_68399_b1b23e533d454fa05c6c76baca8a7d70.webp 760w,
+               /media/info1_hue3b08b612b9ce68abd0554f57caf9eac_68399_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://stefpeschel.github.io/media/info1_hue3b08b612b9ce68abd0554f57caf9eac_68399_0dfe870a186688ecf5c53f7bedc0ed74.webp&#34;
+               width=&#34;180px&#34;
+               height=&#34;339&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/info2_huf88626000b0660c7db89fb6c6acea9b2_81600_453386f82927380638688fde10d8adb0.webp 400w,
+               /media/info2_huf88626000b0660c7db89fb6c6acea9b2_81600_e4e94226a7e8f550e173017cd5aeceb0.webp 760w,
+               /media/info2_huf88626000b0660c7db89fb6c6acea9b2_81600_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://stefpeschel.github.io/media/info2_huf88626000b0660c7db89fb6c6acea9b2_81600_453386f82927380638688fde10d8adb0.webp&#34;
+               width=&#34;500px&#34;
+               height=&#34;89&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;sources-of-pictures-and-icons-used-on-this-website&#34;&gt;Sources of pictures and icons used on this website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Software package&lt;/em&gt; icon: By Daniel T. from &lt;a href=&#34;https://thenounproject.com/icon/software-package-5085201/&#34; target=&#34;_blank&#34; title=&#34;software package&#34;&gt;Noun Project&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Line chart&lt;/em&gt; icon: By Jae Deasigner from &lt;a href=&#34;https://thenounproject.com/icon/line-chart-1298759/&#34; target=&#34;_blank&#34; title=&#34;line chart&#34;&gt;Noun Project&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;R&lt;/em&gt; and &lt;em&gt;Python&lt;/em&gt; icons: From Font Awesome - Brands Vol.2 icon pack (&lt;a href=&#34;https://www.iconfinder.com/iconsets/font-awesome-brands-vol-2&#34; target=&#34;_blank&#34; title=&#34;iconfinder&#34;&gt;Iconfinder&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;git&lt;/em&gt; and &lt;em&gt;Powerpoint&lt;/em&gt; icons: By Alpár-Etele Méder from &lt;a href=&#34;https://www.iconfinder.com/pocike&#34; target=&#34;_blank&#34; title=&#34;iconfinder&#34;&gt;Iconfinder&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Notion&lt;/em&gt; icon: By Radix icons from &lt;a href=&#34;https://www.iconfinder.com/search/icons?family=radix&#34; target=&#34;_blank&#34; title=&#34;iconfinder&#34;&gt;Iconfinder&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;LibreOffice&lt;/em&gt; icon: From IcoMoon icon pack (&lt;a href=&#34;https://www.iconfinder.com/iconsets/Keyamoon-IcoMoon--limited&#34; target=&#34;_blank&#34; title=&#34;iconfinder&#34;&gt;Iconfinder&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;MS Office&lt;/em&gt; icon: By Flatart from &lt;a href=&#34;https://www.iconfinder.com/Flatart&#34; target=&#34;_blank&#34; title=&#34;iconfinder&#34;&gt;Iconfinder&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Inkscape&lt;/em&gt; icon: From &lt;a href=&#34;https://www.iconfinder.com/iconfinder&#34; target=&#34;_blank&#34; title=&#34;iconfinder&#34;&gt;Iconfinder&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Gimp&lt;/em&gt; icon: By Camila Soares from &lt;a href=&#34;https://www.iconfinder.com/csors&#34; target=&#34;_blank&#34; title=&#34;iconfinder&#34;&gt;Iconfinder&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;C/C++&lt;/em&gt; icon: From &lt;a href=&#34;https://www.flaticon.com/de/kostenlose-icons/codierung&#34; title=&#34;codierung Icons&#34;&gt;Codierung Icons from Freepik - Flaticon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;R Markdown&lt;/em&gt; icon: From &lt;a href=&#34;https://rmarkdown.rstudio.com/docs/&#34; &gt;rmarkdown.rstudio.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Shotcut&lt;/em&gt; icon: From &lt;a href=&#34;https://shotcut.org/media/&#34; &gt;shotcut.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Award&lt;/em&gt; image: By Nataliya Vaitkevich from &lt;a href=&#34;https://www.pexels.com/de-de/collections/winner-medal-runner-baqnjub/&#34; title=&#34;Pexels&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;haftungsausschluss&#34;&gt;Haftungsausschluss&lt;/h2&gt;
+&lt;h3 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h3&gt;
+&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;haftung-für-links&#34;&gt;Haftung für Links&lt;/h3&gt;
+&lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h3&gt;
+&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;p&gt;Quelle:
+&lt;a href=&#34;https://www.e-recht24.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.e-recht24.de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Change-Point-Schätzung bei Überlebensdauern von Intensivpatienten</title>
+      <link>https://stefpeschel.github.io/publication/kruegel2015changepoint/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/publication/kruegel2015changepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stefpeschel.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

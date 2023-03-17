@@ -1,0 +1,18 @@
+{
+  "name": "Stefanie Peschel",
+  "short_name": "Stefanie Peschel",
+  "lang": "en-us",
+  "theme_color": "hsl(40, 90%, 65%)",
+  "background_color": "hsl(40, 90%, 65%)",
+  "icons": [{
+    "src": "/media/icon_hu23338a97055054b1f337aa55ee04238c_14842_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu23338a97055054b1f337aa55ee04238c_14842_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

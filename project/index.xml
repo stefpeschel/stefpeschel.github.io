@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Stefanie Peschel</title>
+    <link>https://stefpeschel.github.io/project/</link>
+      <atom:link href="https://stefpeschel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefpeschel.github.io/media/icon_hu23338a97055054b1f337aa55ee04238c_14842_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://stefpeschel.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Permutation p-value approximation</title>
+      <link>https://stefpeschel.github.io/project/permaprox/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/permaprox/</guid>
+      <description>&lt;p&gt;In this PhD project, I develop an approach for accurate p-value approximation
+in permutation testing using the GPD (Generalized Pareto Distribution) while
+strictly avoiding zero p-values.
+The proposed p-value approximation framework, including precise fitting of GPD
+parameters, tail threshold detection, and multiple testing adjustment, will be
+made available in the open-source R package &lt;em&gt;permAprox&lt;/em&gt; on GitHub and CRAN.&#39;&lt;/p&gt;
+&lt;p&gt;The project is carried out under the supervision of
+&lt;a href=&#34;https://www.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne-Laure Boulesteix&lt;/a&gt;
+and &lt;a href=&#34;https://www.statistik.uni-muenchen.de/personen/professoren/mueller/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian L. Müller&lt;/a&gt;,
+as well as in collaboration with the group of
+&lt;a href=&#34;https://www.helmholtz-munich.de/en/iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof.Dr. Erika von Mutius&lt;/a&gt;
+at the Helmholtz Zentrum München.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NetCoMi</title>
+      <link>https://stefpeschel.github.io/project/netcomi/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/netcomi/</guid>
+      <description>&lt;p&gt;NetCoMi is an R package that provides an extensive toolbox for constructing,
+analyzing, and comparing networks for microbial compositional data. It also
+offers the ability to quantify network differences and thus enables insights
+into whether single taxa, groups of taxa, or the overall network structure
+change between groups.
+&lt;br&gt;&lt;br&gt;
+The package was developed as part of my Ph.D. thesis,
+in collaboration with my supervisors and coauthors
+&lt;a href=&#34;https://www.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne-Laure Boulesteix&lt;/a&gt;
+and &lt;a href=&#34;https://www.statistik.uni-muenchen.de/personen/professoren/mueller/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian L. Müller&lt;/a&gt;,
+as well as the group of
+&lt;a href=&#34;https://www.helmholtz-munich.de/en/iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof.Dr. Erika von Mutius&lt;/a&gt;
+at the Helmholtz Zentrum München.
+&lt;br&gt;&lt;br&gt;
+The manuscript describing the
+workflow and theory behind the package is published in
+&lt;a href=&#34;https://academic.oup.com/bib/article/22/4/bbaa290/6017455?login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Briefings in Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Noun Project</title>
+      <link>https://stefpeschel.github.io/project/thenounproject/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/thenounproject/</guid>
+      <description>&lt;p&gt;I like to create my own icons when I need them for a project.
+In order to make them available for other people to use, I upload them to the
+&lt;a href=&#34;https://thenounproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noun Project&lt;/a&gt;.
+Unfortunately, the review process takes several months due to
+the high demand.&lt;/p&gt;
+&lt;p&gt;Feel free to visit my
+&lt;a href=&#34;https://thenounproject.com/stefpeschel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noun Project profile&lt;/a&gt; if you&amp;rsquo;re
+interested in the icons I create.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Career Working Group</title>
+      <link>https://stefpeschel.github.io/project/earlycareerworkinggroup/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/earlycareerworkinggroup/</guid>
+      <description>&lt;p&gt;Since March 2021, I am officially the head of the Early Career Working Group
+(&amp;ldquo;AG Nachwuchs&amp;rdquo;) of the German Region of the International Biometric Society
+(IBS-DR).&lt;/p&gt;
+&lt;p&gt;Our goal is to support and network young statisticians all over Germany.
+Each year at the
+&lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/termine/biometrische-kolloquien.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biometric Colloquium&lt;/a&gt;, we organize the Young Statisticians Session (YSS), a panel discussion on topics that may be of interest to
+young statisticians, and a get-together. In addition, we have a network of
+&lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs/standorte-studium.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;liaison professors&lt;/a&gt;
+who serve as contacts and mentors for young statisticians.
+Since June 2021, we also organize the
+&lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/arbeitsgruppen/nachwuchs/veranstaltungen.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Young Statisticians Lecture Series&lt;/em&gt;&lt;/a&gt;,
+an online lecture series where young statisticians can present their current
+research projects, bachelor or master theses.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

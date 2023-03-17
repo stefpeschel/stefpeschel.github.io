@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg15965"
+   sodipodi:docname="r-project.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   width="500"
+   height="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15969" />
+  <sodipodi:namedview
+     id="namedview15967"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-200.67797"
+     inkscape:cy="259.25424"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15965" />
+  <!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     d="M 581,226.6 C 581,119.1 450.9,32 290.5,32 130.1,32 0,119.1 0,226.6 0,322.4 103.3,402 239.4,418.1 V 480 h 99.1 v -61.5 c 24.3,-2.7 47.6,-7.4 69.4,-13.9 L 448,480 H 560 L 492.6,366.3 C 547.1,330.9 581,281.4 581,226.6 Z m -466.8,14.5 c 0,-73.5 98.9,-133 220.8,-133 121.9,0 211.9,40.7 211.9,133 0,50.1 -26.5,85 -70.3,106.4 -2.4,-1.6 -4.7,-2.9 -6.4,-3.7 -10.2,-5.2 -27.8,-10.5 -27.8,-10.5 0,0 86.6,-6.4 86.6,-92.7 0,-86.3 -90.6,-87.9 -90.6,-87.9 h -199 V 361 C 165.3,339.5 114.2,293.9 114.2,241.1 Z m 225.1,38.3 v -55.6 c 57.8,0 87.8,-6.8 87.8,27.3 0,36.5 -38.2,28.3 -87.8,28.3 z m -0.9,72.5 H 365 c 10.8,0 18.9,11.7 24,19.2 -16.1,1.9 -33,2.8 -50.6,2.9 z"
+     id="path15963"
+     style="fill:#f3c058;fill-opacity:1"
+     transform="matrix(0.81755594,0,0,0.81755594,12.499999,40.705679)" />
+</svg>
