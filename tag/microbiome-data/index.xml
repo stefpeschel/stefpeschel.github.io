@@ -7,7 +7,7 @@
     <description>Microbiome data</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stefpeschel.github.io/media/icon_hu23338a97055054b1f337aa55ee04238c_14842_512x512_fill_lanczos_center_3.png</url>
+      <url>https://stefpeschel.github.io/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiome data</title>
       <link>https://stefpeschel.github.io/tag/microbiome-data/</link>
     </image>
@@ -18,6 +18,31 @@
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://stefpeschel.github.io/publication/ullmann2023overoptimism/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>NetCoMi</title>
+      <link>https://stefpeschel.github.io/project/netcomi/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/project/netcomi/</guid>
+      <description>&lt;p&gt;NetCoMi is an R package that provides an extensive toolbox for constructing,
+analyzing, and comparing networks for microbial compositional data. It also
+offers the ability to quantify network differences and thus enables insights
+into whether single taxa, groups of taxa, or the overall network structure
+change between groups.
+&lt;br&gt;&lt;br&gt;
+The package was developed as part of my Ph.D. thesis,
+in collaboration with my supervisors and coauthors
+&lt;a href=&#34;https://www.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne-Laure Boulesteix&lt;/a&gt;
+and &lt;a href=&#34;https://www.statistik.uni-muenchen.de/personen/professoren/mueller/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christian L. Müller&lt;/a&gt;,
+as well as the group of
+&lt;a href=&#34;https://www.helmholtz-munich.de/en/iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof.Dr. Erika von Mutius&lt;/a&gt;
+at the Helmholtz Zentrum München.
+&lt;br&gt;&lt;br&gt;
+The manuscript describing the
+workflow and theory behind the package is published in
+&lt;a href=&#34;https://academic.oup.com/bib/article/22/4/bbaa290/6017455?login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Briefings in Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

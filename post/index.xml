@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stefpeschel.github.io/media/icon_hu23338a97055054b1f337aa55ee04238c_14842_512x512_fill_lanczos_center_3.png</url>
+      <url>https://stefpeschel.github.io/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://stefpeschel.github.io/post/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>https://stefpeschel.github.io/post/photography/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://stefpeschel.github.io/post/photography/</guid>
-      <description>
+      <description>&lt;p&gt;Whenever I&amp;rsquo;m out and about, I like to take pictures of beautiful things. Here is a small collection of my favorite pictures that I have taken over the years.&lt;/p&gt;
+
 
 
 
@@ -44,6 +45,10 @@
     
     
     
+      
+        
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -56,6 +61,8 @@
     
     
     
+    
+      
     
   
   
@@ -70,6 +77,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -83,6 +92,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -95,6 +106,8 @@
     
     
     
+    
+      
     
   
   
@@ -111,6 +124,8 @@
     
     
     
+      
+    
   
   
     
@@ -125,6 +140,8 @@
     
     
     
+    
+      
     
   
   
@@ -141,6 +158,8 @@
     
     
     
+      
+    
   
   
     
@@ -155,6 +174,8 @@
     
     
     
+    
+      
     
   
   
@@ -171,6 +192,8 @@
     
     
     
+      
+    
   
   
     
@@ -186,6 +209,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -199,6 +224,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -211,6 +238,8 @@
     
     
     
+    
+      
     
   
   
@@ -227,6 +256,8 @@
     
     
     
+      
+    
   
   
     
@@ -241,6 +272,8 @@
     
     
     
+    
+      
     
   
   
@@ -257,6 +290,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -270,6 +305,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -282,6 +319,8 @@
     
     
     
+    
+      
     
   
   
@@ -298,6 +337,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -310,6 +351,8 @@
     
     
     
+    
+      
     
   
   
@@ -324,6 +367,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -337,6 +382,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -349,6 +396,8 @@
     
     
     
+    
+      
     
   
   
@@ -365,6 +414,8 @@
     
     
     
+      
+    
   
   
     
@@ -379,6 +430,8 @@
     
     
     
+    
+      
     
   
   
@@ -395,6 +448,8 @@
     
     
     
+      
+    
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
@@ -406,6 +461,105 @@
 
 &lt;/div&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Logo design</title>
+      <link>https://stefpeschel.github.io/post/logo_design/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/post/logo_design/</guid>
+      <description>&lt;p&gt;I like to design my own logos when needed for a project. The logos were created with Inkscape.&lt;/p&gt;
+&lt;h3 id=&#34;netcomi&#34;&gt;NetCoMi&lt;/h3&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header&#34; href=&#34;https://stefpeschel.github.io/project/netcomi/&#34;&gt;
+ Project
+&lt;/a&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-logo-of-my-r-package-netcomi&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Logo of my R package NetCoMi&#34;
+           src=&#34;https://stefpeschel.github.io/media/logos/NetCoMi_Logo.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;400px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Logo of my R package NetCoMi
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
+&lt;h3 id=&#34;early-career-working-group&#34;&gt;Early Career Working Group&lt;/h3&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header&#34; href=&#34;https://stefpeschel.github.io/project/earlycareerwg/&#34;&gt;
+ Project
+&lt;/a&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-logo-of-the-early-career-working-grouphttpwwwbiometrische-gesellschaftdearbeitsgruppennachwuchshtml-of-the-ibs-dr-many-thanks-to-the-group-members-for-all-the-feedback-that-helped-create-the-logo&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Logo of the [Early Career Working Group](http://www.biometrische-gesellschaft.de/arbeitsgruppen/nachwuchs.html) of the IBS-DR. Many thanks to the group members for all the feedback that helped create the logo.&#34;
+           src=&#34;https://stefpeschel.github.io/media/logos/AG_Nachwuchs_Logo.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;300px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Logo of the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/arbeitsgruppen/nachwuchs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Career Working Group&lt;/a&gt; of the IBS-DR. Many thanks to the group members for all the feedback that helped create the logo.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
+&lt;h3 id=&#34;sibsinar&#34;&gt;SIBSINAR&lt;/h3&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-logo-of-the-seminar-series-sibsinar-organized-by-the-ibs-drhttpwwwbiometrische-gesellschaftdeenhomehtml-the-respective-topic-of-the-seminar-is-highlighted-designed-in-consultation-with-the-organizing-committee-of-the-seminar-series&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Logo of the seminar series *SIBSINAR* organized by the [IBS-DR](http://www.biometrische-gesellschaft.de/en/home.html). The respective topic of the seminar is highlighted. Designed in consultation with the Organizing Committee of the Seminar Series.&#34;
+           src=&#34;https://stefpeschel.github.io/media/logos/SIBSINAR_Logo.svg&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;500px&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Logo of the seminar series &lt;em&gt;SIBSINAR&lt;/em&gt; organized by the &lt;a href=&#34;http://www.biometrische-gesellschaft.de/en/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBS-DR&lt;/a&gt;. The respective topic of the seminar is highlighted. Designed in consultation with the Organizing Committee of the Seminar Series.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/center&gt;
 </description>
     </item>
     

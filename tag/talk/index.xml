@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk | Stefanie Peschel</title>
+    <link>https://stefpeschel.github.io/tag/talk/</link>
+      <atom:link href="https://stefpeschel.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefpeschel.github.io/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
+      <title>Talk</title>
+      <link>https://stefpeschel.github.io/tag/talk/</link>
+    </image>
+    
+    <item>
+      <title>DAGStat 2022</title>
+      <link>https://stefpeschel.github.io/talk/dagstat-2022/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/dagstat-2022/</guid>
+      <description>&lt;p&gt;In my video talk, I presented my PhD project, where I develop an approach for
+accurate p-value approximation in permutation testing using the GPD
+(Generalized Pareto Distribution) while strictly avoiding zero p-values.
+The video can be found below.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://stefpeschel.github.io/media/DAGStat2022_SPeschel.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>67th Biometric Colloquium of the IBS-DR</title>
+      <link>https://stefpeschel.github.io/talk/67th-biometric-colloquium-of-the-ibs-dr/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://stefpeschel.github.io/talk/67th-biometric-colloquium-of-the-ibs-dr/</guid>
+      <description>&lt;p&gt;In this talk, I presented my R package NetCoMi, which offers functionality for
+constructing, analyzing, and comparing networks for microbiome data.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-slides&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slides&#34;
+           src=&#34;https://stefpeschel.github.io/media/BK2021_Talk_Peschel_gif.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Slides
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

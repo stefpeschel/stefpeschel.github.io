@@ -10,11 +10,23 @@
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://stefpeschel.github.io/tags/</loc>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/tag/young-statisticians/</loc>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://stefpeschel.github.io/organized/ysls/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://stefpeschel.github.io/talk/interact-2023/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/tag/poster/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -27,7 +39,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://stefpeschel.github.io/categories/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://stefpeschel.github.io/tag/photography/</loc>
@@ -43,14 +55,18 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://stefpeschel.github.io/post/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://stefpeschel.github.io/tags/</loc>
-    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+    <loc>https://stefpeschel.github.io/tag/p-value/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://stefpeschel.github.io/project/permaprox/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/tag/permutation-test/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,6 +122,14 @@
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://stefpeschel.github.io/tag/talk/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/tag/video-presentation/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://stefpeschel.github.io/privacy/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,6 +140,10 @@
   </url><url>
     <loc>https://stefpeschel.github.io/talk/bioinformatics-virtual-coordination-network-bvcn-conference/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/tag/icons/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://stefpeschel.github.io/project/thenounproject/</loc>
@@ -138,7 +166,7 @@
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://stefpeschel.github.io/project/earlycareerworkinggroup/</loc>
+    <loc>https://stefpeschel.github.io/project/earlycareerwg/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -148,6 +176,18 @@
   </url><url>
     <loc>https://stefpeschel.github.io/organized/2020-09_gmds-cen/</loc>
     <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/tag/logo-design/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/category/logo-design/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://stefpeschel.github.io/post/logo_design/</loc>
+    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://stefpeschel.github.io/tag/lifetime-data-analysis/</loc>
