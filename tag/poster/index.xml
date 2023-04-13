@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poster | Stefanie Peschel</title>
-    <link>https://stefpeschel.github.io/tag/poster/</link>
-      <atom:link href="https://stefpeschel.github.io/tag/poster/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stefpeschel.de/tag/poster/</link>
+      <atom:link href="https://stefpeschel.de/tag/poster/index.xml" rel="self" type="application/rss+xml" />
     <description>Poster</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stefpeschel.github.io/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
+      <url>https://stefpeschel.de/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
       <title>Poster</title>
-      <link>https://stefpeschel.github.io/tag/poster/</link>
+      <link>https://stefpeschel.de/tag/poster/</link>
     </image>
     
     <item>
       <title>&lt;interact&gt; 2023</title>
-      <link>https://stefpeschel.github.io/talk/interact-2023/</link>
+      <link>https://stefpeschel.de/talk/interact-2023/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://stefpeschel.github.io/talk/interact-2023/</guid>
+      <guid>https://stefpeschel.de/talk/interact-2023/</guid>
       <description>&lt;p&gt;With my flash talk and poster, I will give an overview on my
 R package NetCoMi, which offers functionality for constructing, analyzing,
 and comparing networks for microbiome data.&lt;/p&gt;
@@ -25,9 +25,9 @@ and comparing networks for microbiome data.&lt;/p&gt;
     
     <item>
       <title>Microbiome Day @HelmholtzMunich</title>
-      <link>https://stefpeschel.github.io/talk/microbiome-day-@helmholtzmunich/</link>
+      <link>https://stefpeschel.de/talk/microbiome-day-@helmholtzmunich/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://stefpeschel.github.io/talk/microbiome-day-@helmholtzmunich/</guid>
+      <guid>https://stefpeschel.de/talk/microbiome-day-@helmholtzmunich/</guid>
       <description>&lt;p&gt;I presented a poster about my R package NetCoMi. The poster contains an example,
 where NetCoMi is applied to data from the PASTURE study to investigate whether
 children with a high weight gain in early life have a higher change for
@@ -37,9 +37,9 @@ obesity at school age.&lt;/p&gt;
     
     <item>
       <title>Bioinformatics Virtual Coordination Network (BVCN) conference</title>
-      <link>https://stefpeschel.github.io/talk/bioinformatics-virtual-coordination-network-bvcn-conference/</link>
+      <link>https://stefpeschel.de/talk/bioinformatics-virtual-coordination-network-bvcn-conference/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://stefpeschel.github.io/talk/bioinformatics-virtual-coordination-network-bvcn-conference/</guid>
+      <guid>https://stefpeschel.de/talk/bioinformatics-virtual-coordination-network-bvcn-conference/</guid>
       <description>&lt;p&gt;With this poster, I presented my R package NetCoMi, which offers functionality
 for constructing, analyzing, and comparing networks for microbiome data.&lt;/p&gt;
 </description>

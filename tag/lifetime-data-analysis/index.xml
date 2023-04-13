@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifetime data analysis | Stefanie Peschel</title>
-    <link>https://stefpeschel.github.io/tag/lifetime-data-analysis/</link>
-      <atom:link href="https://stefpeschel.github.io/tag/lifetime-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stefpeschel.de/tag/lifetime-data-analysis/</link>
+      <atom:link href="https://stefpeschel.de/tag/lifetime-data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Lifetime data analysis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stefpeschel.github.io/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
+      <url>https://stefpeschel.de/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
       <title>Lifetime data analysis</title>
-      <link>https://stefpeschel.github.io/tag/lifetime-data-analysis/</link>
+      <link>https://stefpeschel.de/tag/lifetime-data-analysis/</link>
     </image>
     
     <item>
       <title>Nonparametric change point estimation for survival distributions with a partially constant hazard rate</title>
-      <link>https://stefpeschel.github.io/publication/brazzale2019changepoint/</link>
+      <link>https://stefpeschel.de/publication/brazzale2019changepoint/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://stefpeschel.github.io/publication/brazzale2019changepoint/</guid>
+      <guid>https://stefpeschel.de/publication/brazzale2019changepoint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Change-Point-Schätzung bei Überlebensdauern von Intensivpatienten</title>
-      <link>https://stefpeschel.github.io/publication/kruegel2015changepoint/</link>
+      <link>https://stefpeschel.de/publication/kruegel2015changepoint/</link>
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://stefpeschel.github.io/publication/kruegel2015changepoint/</guid>
+      <guid>https://stefpeschel.de/publication/kruegel2015changepoint/</guid>
       <description></description>
     </item>
     

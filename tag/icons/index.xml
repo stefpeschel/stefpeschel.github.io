@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icons | Stefanie Peschel</title>
-    <link>https://stefpeschel.github.io/tag/icons/</link>
-      <atom:link href="https://stefpeschel.github.io/tag/icons/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stefpeschel.de/tag/icons/</link>
+      <atom:link href="https://stefpeschel.de/tag/icons/index.xml" rel="self" type="application/rss+xml" />
     <description>Icons</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stefpeschel.github.io/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
+      <url>https://stefpeschel.de/media/icon_hu6e2ccd047088fa59933e9ebd62efe82a_14116_512x512_fill_lanczos_center_3.png</url>
       <title>Icons</title>
-      <link>https://stefpeschel.github.io/tag/icons/</link>
+      <link>https://stefpeschel.de/tag/icons/</link>
     </image>
     
     <item>
       <title>Noun Project</title>
-      <link>https://stefpeschel.github.io/project/thenounproject/</link>
+      <link>https://stefpeschel.de/project/thenounproject/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://stefpeschel.github.io/project/thenounproject/</guid>
+      <guid>https://stefpeschel.de/project/thenounproject/</guid>
       <description>&lt;p&gt;I like to create my own icons when I need them for a project.
 In order to make them available for other people to use, I upload them to the
 &lt;a href=&#34;https://thenounproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noun Project&lt;/a&gt;.
